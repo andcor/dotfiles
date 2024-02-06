@@ -1,0 +1,20 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/andcor/work/bifrost-distro
+- /home/andcor/work/bifrost-distro/distro-builder-common
+- /home/andcor/work/distro-template
+- /home/andcor/.config/nvim
+- /home/andcor/work/yocto_builder_template
+- /home/andcor/work/yocto_builder_docker
+- /home/andcor/work/pulsesync-fpga
+- /home/andcor/work/yocto_builder_tx/yocto/layers/meta-airborne
+- /home/andcor/work/yocto_builder_cm4/yocto/layers/meta-skytem-raspberry
+- /home/andcor/work/yocto_builder_cm4
+- /home/andcor/work/yocto_builder_cm4/yocto/layers/meta-skytem-xilinx
+- /home/andcor/work/yocto_remote_fwu_investigation
+startuppopupversion: 5
+customcommandshistory:
+- q!
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false

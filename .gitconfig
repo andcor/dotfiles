@@ -1,0 +1,9 @@
+[user]
+	email = aco@skytem.com
+	name = Andreas Corneliussen
+[pull]
+	rebase = false
+[push]
+	config = upstream
+[init]
+	defaultBranch = main
